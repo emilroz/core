@@ -21,11 +21,11 @@ setuptools.setup(
         "wx": ["wxPython==4.0.7.post2"],
     },
     install_requires=[
-        "boto3>=1.12.28",
+        "boto3==1.12.28",
         "centrosome==1.2.0",
         "docutils==0.15.2",
         "h5py==2.10.0",
-        "matplotlib>=3.1.3",
+        "matplotlib==3.1.3",
         "numpy==1.19.3",
         "prokaryote==2.4.2",
         "psutil==5.7.0",
