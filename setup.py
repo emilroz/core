@@ -28,7 +28,7 @@ setuptools.setup(
         "matplotlib==3.1.3",
         "numpy==1.20.1",
         "prokaryote==2.4.2",
-        "psutil==5.7.0",
+        "psutil==5.8.0",
         "python-bioformats==4.0.0",
         "python-javabridge==4.0.0",
         "pyzmq==18.1.0",
